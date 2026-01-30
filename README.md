@@ -43,7 +43,8 @@ from external devices via a private mesh VPN.
 - All LAN clients resolve DNS through Pi-hole
 - Optional remote clients connect via Tailscale VPN
 
-*(Network diagram to be added)*
+![network diagram pi hole](https://github.com/user-attachments/assets/6457b539-99d1-432e-854a-c5ed37cca481)
+
 
 ---
 
