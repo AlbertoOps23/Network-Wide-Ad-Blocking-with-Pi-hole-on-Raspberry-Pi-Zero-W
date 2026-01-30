@@ -73,6 +73,9 @@ Detailed step-by-step documentation is provided in the `/docs` directory:
 - Stable DNS resolution using wired connectivity
 - Secure remote access via private VPN (Tailscale)
 
+<img width="1342" height="742" alt="pi hole" src="https://github.com/user-attachments/assets/469387d9-eca1-4a4b-998c-4390f171b941" />
+
+
 ---
 
 ## Known Limitations
