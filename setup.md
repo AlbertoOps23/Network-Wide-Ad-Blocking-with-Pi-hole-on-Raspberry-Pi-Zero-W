@@ -45,6 +45,9 @@ Although the Raspberry Pi Zero W supports Wi-Fi, Ethernet was chosen for increas
 3. Power-cycle the Pi to ensure the Ethernet interface initializes correctly.
 4. Determine the Pi’s IP address from the router’s DHCP client list.
 
+
+Note: A static IP was configured for the Raspberry Pi directly in the router’s DHCP settings to ensure consistent network identification for Pi-hole.
+
 ---
 
 ## 5. System Update
