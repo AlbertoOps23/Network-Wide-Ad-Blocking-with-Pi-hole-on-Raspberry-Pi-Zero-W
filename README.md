@@ -1,5 +1,8 @@
 # Network-Wide Ad Blocking with Pi-hole on Raspberry Pi Zero W
 
+<img width="690" height="184" alt="pihole-logo" src="https://github.com/user-attachments/assets/940c1dde-e291-4899-869c-cd5093bd1076" />
+
+
 ## Overview
 This project documents the deployment of a low-power, network-wide DNS
 ad-blocking solution using Pi-hole on a Raspberry Pi Zero W.
